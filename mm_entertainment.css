@@ -1,0 +1,136 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	color:#99ccff;
+	font-family: arial;
+	font-size: 11px;
+	border-top-color: #FFFFFF;
+	}
+	
+hr {
+	height:1px; 
+	color: #cccccc;
+	border: none;
+	}
+	
+a {
+	color: #FFFFFF;
+	text-decoration:underline;
+	}
+	
+a:hover {
+	color: #FF3300;
+	text-decoration:none;
+	}
+	
+/* ID Styles */
+
+#navigation a {
+	color: #FFFFFF;
+	font-weight:normal;
+	text-decoration: none;
+	letter-spacing:0.1em;
+	line-height:16px;
+	display:block;
+	padding:10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	}
+	
+#navigation a:hover {
+	color:#FF00FF;
+	border: 1pt dotted red;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	}
+	
+#sidebarHeader {
+	padding: 0px 4px 14px 4px;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	}
+
+#logo {
+	font:18px georgia;
+	color: #FFCC00;
+	line-height:24px;
+	letter-spacing:0.4em;
+	}
+
+#tagline {
+	color: #FFFF00;
+	line-height:18px;
+	letter-spacing:0.2em;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+	
+#dateformat a {
+	color:#99CCFF;
+	font:11px georgia;
+	color: #99CCFF;
+	letter-spacing:.2em;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+#dateformat a:hover {
+	color: #ffffff;
+	}
+
+/* Class Styles */
+
+.bodyText {
+	color:#FFFFFF;
+	line-height:20px;
+	letter-spacing:.1em;
+	margin-top:0px;
+	font-family: arial;
+	font-size: 11px;
+	}
+	
+.pageName{
+	font:22px georgia;
+	color: #FFFFFF;
+	line-height:20px;
+	letter-spacing:0.1em;
+	}
+	
+.subHeader {
+	font:16px georgia;
+	color: #FFCC00;
+	font-weight:bold;
+	letter-spacing:0.1em;
+	line-height:16px;
+	}	
+	
+.sidebarHeader {
+	font:14px georgia;
+	color: #66CC66;
+	font-weight:bold;
+	letter-spacing:0.1em;
+	line-height:16px;
+	}	
+	
+.detailText {
+	font:11px arial;
+	color:#ffffff;
+	line-height:16px;
+	letter-spacing:0.1em;
+	}
+	
+.smallText {
+	font:11px arial;
+	color:#99CCFF;
+	}
+	
+
+	
